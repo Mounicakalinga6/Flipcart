@@ -45,7 +45,7 @@ return (
         return(
             <div>
 
-            <Link to ={`/furniute/${item.id}`}> 
+            <Link to ={`/furniture/${item.id}`}> 
             <div className="pageImg">
                     <img src={item.image} alt="" />
                 </div>
